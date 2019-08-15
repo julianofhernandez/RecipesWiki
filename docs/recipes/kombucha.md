@@ -1,3 +1,7 @@
+---
+author: Julian Hernandez
+date: 8/14/2019
+---
 # Kombucha
 
 - 1 L water

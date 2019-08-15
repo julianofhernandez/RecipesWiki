@@ -1,11 +1,20 @@
-site_name: My Recipes
+site_name: 'My Recipes'
+site_description: 'A wiki for recipes'
+
 nav:
     - Home: index.md
     - Teas: 
         - Kombucha: /recipes/kombucha
     - About: about.md
+
 theme:
     name: 'material'
+    language: 'en'
     palette:
         primary: 'Deep Purple'
         accent: 'Purple'
+    font:
+        text: 'Roboto'
+        code: 'Roboto Mono'
+
+copyright: 'Copyright &copy; 2019 Julian Hernandez'
