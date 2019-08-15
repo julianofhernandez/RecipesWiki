@@ -1,10 +1,11 @@
 site_name: 'My Recipes'
 site_description: 'A wiki for recipes'
+site_favicon: img/favicon.ico
 
 nav:
     - Home: index.md
     - Teas: 
-        - Kombucha: /recipes/kombucha
+        - Kombucha: '/recipes/kombucha'
     - About: about.md
 
 theme:
