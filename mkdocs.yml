@@ -5,7 +5,7 @@ site_favicon: img/favicon.ico
 nav:
     - Home: index.md
     - Brewing: 
-        - Kombucha: '/recipes/kombucha'
+        - Kombucha: 'recipes/kombucha'
     - Cooking:
         - Mac & Cheese: 'recipes/mac-n-cheese'
     - About: about.md

@@ -1,6 +1,5 @@
 ---
 author: Julian Hernandez
-date: 8/14/2019
 ---
 # Mac & Cheese
 
