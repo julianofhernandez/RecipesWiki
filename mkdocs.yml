@@ -4,8 +4,10 @@ site_favicon: img/favicon.ico
 
 nav:
     - Home: index.md
-    - Teas: 
+    - Brewing: 
         - Kombucha: '/recipes/kombucha'
+    - Cooking:
+        - Mac & Cheese: 'recipes/mac-n-cheese'
     - About: about.md
 
 theme:
