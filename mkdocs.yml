@@ -1,6 +1,6 @@
 site_name: 'My Recipes'
 site_description: 'A wiki for recipes'
-site_favicon: img/favicon.ico
+site_author: 'Julian Hernandez'
 
 nav:
     - Home: index.md
@@ -12,8 +12,8 @@ nav:
 
 theme:
     name: 'material'
-    custom_dir: custom_dir/
     language: 'en'
+    favicon: favicon.ico
     palette:
         primary: 'Deep Purple'
         accent: 'Purple'
