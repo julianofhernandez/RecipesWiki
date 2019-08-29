@@ -9,7 +9,7 @@ nav:
     - Cooking:
         - Mac & Cheese: 'recipes/mac-n-cheese'
     - Locations:
-        - Van Huzen: 'locations/van-huzen'
+        - Van Huzen: 'locations/Van-Huzen'
     - About: about.md
 
 extra_javascript: 
