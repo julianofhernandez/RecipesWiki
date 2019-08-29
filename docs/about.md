@@ -1,1 +1,1 @@
-## About page
+This website is hosted using the [Material](https://squidfunk.github.io/mkdocs-material/) theme for [MkDocs](https://www.mkdocs.org/) on [GitHub Pages](https://pages.github.com/)
