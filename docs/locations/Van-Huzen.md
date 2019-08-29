@@ -3,6 +3,6 @@
 
 # Van Huzen
 
-<div id="vanHuzen" style="height:400px"></div>
+<div id="vanHuzen" style="height:400px; z-index: -1"></div>
 
 This is an excellent swimming spot
