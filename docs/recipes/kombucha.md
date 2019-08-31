@@ -5,6 +5,7 @@ author: Julian Hernandez
 
 ## 1F
 **Ingredients**
+
 - 1 L water
 - 50 g sugar
 - 5 g of tea
@@ -18,6 +19,7 @@ Boil 1 L of non-chlorinated water and dissolve 50 g of sugar in it. Next, add 5 
 ## 2F
 
 **Ingredients**
+
 - 1F kombucha
 - Juice or fruit
 - Ginger (optional)
