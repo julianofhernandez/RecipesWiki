@@ -3,7 +3,7 @@ author: Julian Hernandez
 ---
 # Mac & Cheese
 
-Ingredients
+**Ingredients**
 
 - 1 lb. dried elbow pasta
 - 1/2 cup unsalted butter 1 stick
@@ -15,7 +15,7 @@ Ingredients
 - 1/2 teaspoon black pepper
 - 1/4 teaspoon paprika
 
-Steps
+**Steps**
 
 1. Preheat oven to 325 degrees F and grease a 3 qt baking dish (9x13"). Set aside.
 2. Bring a large pot of water to a boil.
