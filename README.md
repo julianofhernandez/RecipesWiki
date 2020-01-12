@@ -1,0 +1,1 @@
+Run *mkdocs serve* in the same directory as mkdocs.yml to build and run the page

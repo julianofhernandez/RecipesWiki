@@ -5,11 +5,11 @@ site_author: 'Julian Hernandez'
 nav:
     - Home: index.md
     - Brewing: 
-        - Kombucha: 'recipes/kombucha'
+        - Kombucha: 'recipes/kombucha.md'
     - Cooking:
-        - Mac & Cheese: 'recipes/mac-n-cheese'
+        - Mac & Cheese: 'recipes/mac-n-cheese.md'
     - Locations:
-        - Van Huzen: 'locations/Van-Huzen'
+        - Van Huzen: 'locations/Van-Huzen.md'
     - About: about.md
 
 extra_javascript: 
