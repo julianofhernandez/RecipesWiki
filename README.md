@@ -1,3 +1,4 @@
+[GitHub Pages Link](https://julianofhernandez.github.io/RecipesWiki/)
 Local:
     Run `mkdocs serve` in the same directory as mkdocs.yml to build and run the page
 GitHub Pages
