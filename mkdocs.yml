@@ -8,8 +8,8 @@ nav:
         - Kombucha: 'recipes/kombucha.md'
     - Cooking:
         - Mac & Cheese: 'recipes/mac-n-cheese.md'
-#    - Locations:
-#        - Van Huzen: 'locations/Van-Huzen.md'
+    - Locations:
+       - Ralston peak: 'locations/Ralston Peak.md'
     - About: about.md
 
 extra_javascript: 
