@@ -14,13 +14,3 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=p
 var marker = L.marker([40.4889985,-123.9689541]).addTo(vanHuzen);
 marker.bindPopup("<b>Van Huzen</b>").openPopup();
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-184186681-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-184186681-1');
-</script>
